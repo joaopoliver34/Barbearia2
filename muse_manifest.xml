@@ -1,0 +1,47 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="barbearia.html" resolutions="1x" timestamp="1599918922016">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-mestre.css" crc="4244747894" ref="index:produtos:serviços:contatos"/>
+    <file name="index.css" crc="3776550801" ref="index"/>
+    <file name="produtos.css" crc="92163954" ref="produtos"/>
+    <file name="servi_os.css" crc="4153295402" ref="serviços"/>
+    <file name="contatos.css" crc="535091894" ref="contatos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:serviços:produtos:contatos"/>
+    <file name="museutils.js" crc="183364071" ref="index:serviços:produtos:contatos"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:serviços:produtos:contatos"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:serviços:produtos:contatos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:serviços:produtos:contatos"/>
+    <file name="webpro.js" crc="3803554875" ref="serviços:contatos"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="serviços"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="serviços"/>
+    <file name="touchswipe.js" crc="4038331989" ref="serviços"/>
+    <file name="form_check.php" crc="277267350" ref="contatos"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contatos"/>
+    <file name="form_process.php" crc="24249335" ref="contatos"/>
+    <file name="form-u289.php" crc="3919429594" ref="contatos"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="341769194" seo="true" ref="index:serviços:produtos:contatos"/>
+    <file name="corte 2.jpg" crc="4226570373" seo="true" ref="serviços"/>
+    <file name="blank.gif" crc="4208392903" ref="serviços"/>
+    <file name="corte 3.jpg" crc="3950427578" seo="true" ref="serviços"/>
+    <file name="corte 4.jpg" crc="3776754405" seo="true" ref="serviços"/>
+    <file name="corte 5.jpg" crc="4291184356" seo="true" ref="serviços"/>
+    <file name="corte1.jpg" crc="339815227" seo="true" ref="serviços"/>
+    <file name="loading.gif" crc="3815509949" ref="serviços"/>
+    <file name="produto1.jpg" crc="536031397" seo="true" ref="produtos"/>
+    <file name="produto2.jpg" crc="3908120851" seo="true" ref="produtos"/>
+    <file name="produto 3.jpg" crc="279896932" seo="true" ref="produtos"/>
+    <file name="produto 4.jpg" crc="3910358907" seo="true" ref="produtos"/>
+    <file name="u299-21.png" crc="380298718" ref="contatos"/>
+    <file name="u299-21-r.png" crc="4027672137" ref="contatos"/>
+    <file name="u299-21-m.png" crc="121147933" ref="contatos"/>
+    <file name="u299-21-fs.png" crc="3969154064" ref="contatos"/>
+  </folder>
+  <file name="index.html" crc="4091926509" seo="true" mt="1599918048517" redirect="true"/>
+  <file name="serviços.html" crc="261090040" seo="true" mt="1599918539216" redirect="true"/>
+  <file name="produtos.html" crc="3960445297" seo="true" mt="1599918746434" redirect="true"/>
+  <file name="contatos.html" crc="59944283" seo="true" mt="1599918857477" redirect="true"/>
+</manifest>
